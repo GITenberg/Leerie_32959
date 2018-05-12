@@ -1,0 +1,34 @@
+_repo: Leerie_32959
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Balmer, Clinton
+    gutenberg_agent_id: '36128'
+    url: http://www.gutenberg.org/2009/agents/36128
+covers:
+- cover_type: archival
+  image_path: 32959-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sawyer, Ruth
+    alias: Durand, Lucinda
+    birthdate: 1880
+    deathdate: 1970
+    gutenberg_agent_id: '6085'
+    url: http://www.gutenberg.org/2009/agents/6085
+description: ''
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Nurses -- Fiction'
+- !lcc 'PS'
+title: Leerie
+url: http://www.gutenberg.org/ebooks/32959
